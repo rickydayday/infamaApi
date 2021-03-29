@@ -1,0 +1,17 @@
+[{
+  "id":"1",
+  "name":"Erick Oyugi",
+  "department":"ICT Department"
+
+},
+{
+	"id":"2",
+	"name":"Jane Doe",
+	"department":"Procurement Department"
+},
+{
+		"id":"3",
+	"name":"John Doe",
+	"department":"Procurement Department"
+
+}]
